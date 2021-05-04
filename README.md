@@ -12,7 +12,7 @@
 
 ## 각 정렬 시간 복잡도
 ---
-| sort | average | best | worst |
+| sort | average case | best case | worst case |
 |:------:|:-------:|:----:|:-----:|
 | bubble | O(n^2) | O(n^2) | O(n^2) |
 | selectionSort | O(n^2) | O(n^2) | O(n^2) |
