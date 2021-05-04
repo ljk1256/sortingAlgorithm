@@ -11,6 +11,7 @@
 
 
 ## 각 정렬 시간 복잡도
+---
 
 | sort | average case | best case | worst case |
 |:------:|:-------:|:----:|:-----:|
